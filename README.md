@@ -1,5 +1,6 @@
 # Hello, my name is Gustavo Martin Vela!
 ### Data Scientist and Data Engineer
+<<<<<<< HEAD
 
 I'm professional Data Engineer / Scientist (more focusing in engineering than in models) with more than 10 years of experience in different multinational companies. Deploying and integrating Data Driven applications in tech, telco, retail and insurance fields. Working in different cloud environments to deploy the best possible solutions. Always trying to learn news things related to data and hardware.    
 
@@ -36,3 +37,5 @@ I'm currently working on INDITEX DATA, helping INDITEX to understand the data an
 
 [![Email](https://img.shields.io/badge/hello@gustavomart.in-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](hello@gustavomart.in)
 </br>
+=======
+>>>>>>> parent of b29a137 (Add description to my profile)
